@@ -1,0 +1,74 @@
+---
+title: "Encontro síncrono 12"
+subtitle: "QFD e FMEA"
+author: "Renata Oliveira"
+date: "2020/11/03 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "rladies", "rladies-fonts"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+# QFD e FMEA
+
+---
+
+# QFD - Quality Function Deployment
+
+---
+
+# FMEA
+
+Objetivo: melhorar os processos
+
+Analisar modos de falhas e seus efeitos
+Método quantitativo para analisar modos de falha em busca de erros e atribuição de severidade.
+
++ Fornece uma avaliação quantitativa de todos os defeitos e controle atuais para cada passo do processo
++ Permite conhecimento do processo
++ Permite à equipe do projeto rastrear as ações, histórico e melhorias feitas no processo, além da melhoria do projeto. 
+
+---
+
+Desenvolvido na década de 50 - forças armadas 
+
+3 tipos diferentes:
+
+Sistema
+Estagios preliminares do projeto
+
+Projeto
+Subsistemas, partes e componentes na fase de projeto
+
+Processo
+Fluxo de processo
+Sequência
+
+
+Usado para identificar riscos em um processo atual ou em nova solução
+
+Abordagem proativa de avaliação de risco, visando previnir erros no futuro.
+
+FMEA deve ser dinâmico e deve ser atualizado durante o ciclo de vida do projeto. 
+
+Entradas:
++ Mapa do projeto
++ Matriz de causa e efeito
+
+Saídas:
++ Conjunto de ações corretivas para reduzir falhas. 
+
+---
+# Duas seções primárias no FMEA
++ Avaliação inicial - avaliar a condição inicial do processo
++ Documenta ações da primeira fase. 
